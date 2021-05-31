@@ -4,3 +4,13 @@
   left: 0;
   
 }
+
+#welcome-section{
+  height: 100vh;
+}
+
+@media(max-width:800px){
+  body{
+      background-color: black;
+  }
+}
